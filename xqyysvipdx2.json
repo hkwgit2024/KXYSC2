@@ -41,6 +41,17 @@
       "ext": "https://image-c.weimobwmc.com/ol-OlSf/9a72ac3a9fa24d3f84cebcf008e4ed0d.jpg"
     },
     {
+            "key": "戏曲",
+            "name": "🅰️戏曲┃合集",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "./js/我的哔哩.js?type=url&params=./json/戏曲合集.json"
+    },
+    {
       "key": "戏曲南风",
       "name": "💝会员戏曲3┃买康兄盒子就送双端专享会员🎁",
       "type": 3,
