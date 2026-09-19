@@ -47,6 +47,41 @@
             ]
         },
         {
+            "key": "黄果优化",
+            "name": "黄果短剧",
+            "type": 3,
+            "api": "./py/黄果优化.py",
+            "changeable": 1
+        },
+        {
+            "key": "步兵Emby",
+            "name": "🔞步兵营地[emby]🪜",
+            "type": 3,
+            "api": "./js/步兵Emby.js",
+            "changeable": 1
+        },
+                {
+            "key": "步兵Emby",
+            "name": "🔞步兵营地[emby]🪜",
+            "type": 3,
+            "api": "./js/步兵Emby.js",
+            "changeable": 1
+        },
+        {
+            "key": "步兵Emby",
+            "name": "🔞步兵营地[emby]🪜",
+            "type": 3,
+            "api": "./js/步兵Emby.js",
+            "changeable": 1
+        },
+        {
+            "key": "步兵Emby",
+            "name": "🔞步兵营地[emby]🪜",
+            "type": 3,
+            "api": "./js/步兵Emby.js",
+            "changeable": 1
+        },
+        {
             "key": "XMVideo",
             "name": "🔞熊猫视频[JAR]",
             "type": 3,
