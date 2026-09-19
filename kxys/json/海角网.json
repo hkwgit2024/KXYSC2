@@ -28,5 +28,5 @@
     "特殊分类链接": "海角首页${{域名-c}}page/{catePg}/[{{域名-c}}]#海角热门&{{域名-c}}order/hot/page/{catePg}/[{{域名-c}}order/hot/]#今日更新${{域名-c}}order/today/page/{catePg}/[{{域名-c}}order/today/]#海角热搜${{域名-c}}authors_hot/page/{catePg}/[{{域名-c}}authors_hot/]#海角往期${{域名-c}}date/page/{catePg}/[{{域名-c}}date/]#📌海角标签${{域名-c}}tags/page/{catePg}/[{{域名-c}}tags/]#📌原创主${{域名-c}}authors_blogger/original/page/{catePg}/[{{域名-c}}authors_blogger/original/]#📌UP主${{域名-c}}authors_blogger/creator/page/{catePg}/[{{域名-c}}authors_blogger/creator/]#📌入驻创作者${{域名-c}}authors_blogger/enter/page/{catePg}/[{{域名-c}}authors_blogger/enter/]",
 	"搜索url": "{{域名-c}}search_contents/{wd}/[{{域名-c}}search_contents/{wd}/{pg}]/",
     "分类url": "{{域名-c}}{cateId}/{catePg}/[{{域名-c}}{cateId}/]",
-    "分类": "AI成人短剧#海角首页#海角热门#今日更新#海角社区$communitys#海角乱伦$category/hjll#海角原创$category/hjyc#海角吃瓜$category/hjcg#海角看片$category/hjkp#海角网黄$category/hjwh#海角探花$category/hjth#海角动漫$category/hjdm#海角搬运$category/hjby#海角热搜#海角往期#📌海角标签#📌原创主#📌UP主#📌入驻创作者"
+    "分类": "海角AI换脸#海角伦理#海角首页#海角热门#今日更新#海角社区$communitys#海角乱伦$category/hjll#海角原创$category/hjyc#海角吃瓜$category/hjcg#海角看片$category/hjkp#海角网黄$category/hjwh#海角探花$category/hjth#海角动漫$category/hjdm#海角搬运$category/hjby#海角热搜#海角往期#📌海角标签#📌原创主#📌UP主#📌入驻创作者"
 }
