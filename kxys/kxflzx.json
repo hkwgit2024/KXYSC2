@@ -46,13 +46,6 @@
                 "OnlyFans"
             ]
         },
-        //{
-            "key": "黄果优化",
-            "name": "黄果短剧",
-            "type": 3,
-            "api": "./py/黄果优化.py",
-            "changeable": 1
-        },
         {
             "key": "黄果短剧",
             "name": "黄果短剧2",
@@ -72,6 +65,20 @@
             "name": "黄豆短剧3",
             "type": 3,
             "api": "./py/黄豆短剧_v3.py",
+            "changeable": 1
+        },
+        {
+            "key": "一线黑料",
+            "name": "一线黑料",
+            "type": 3,
+            "api": "./py/一线黑料.py",
+            "changeable": 1
+        },
+        {
+            "key": "乳香影院",
+            "name": "乳香影院",
+            "type": 3,
+            "api": "./py/乳香影院.py",
             "changeable": 1
         },
         {
