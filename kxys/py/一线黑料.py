@@ -50,11 +50,12 @@ class Spider(BaseSpider):
         self._host_ok = False
 
         self.classes = [
+            {"type_id": "video/type/1304", "type_name": "AI成人"},
+            {"type_id": "video/type/1305", "type_name": "三级伦理"},
             {"type_id": "video/type/913", "type_name": "91精选"},
             {"type_id": "video/type/957", "type_name": "精选传媒"},
             {"type_id": "video/type/1234", "type_name": "杏吧资源"},
             {"type_id": "video/type/955", "type_name": "热点专题"},
-            {"type_id": "video/type/1304", "type_name": "AI成人"},
             {"type_id": "video/type/956", "type_name": "国产传媒"},
             {"type_id": "video/type/1138", "type_name": "特殊资源"},
             {"type_id": "video/type/1052", "type_name": "少女仓库"},
