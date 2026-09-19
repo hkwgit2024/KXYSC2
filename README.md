@@ -1,2 +1,1 @@
-# 18
-WebHTV Git 云盘
+本仓库Fork自Github大佬，仅用于测试，请勿Fork和非法传播
