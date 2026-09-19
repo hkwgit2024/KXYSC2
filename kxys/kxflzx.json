@@ -54,24 +54,24 @@
             "changeable": 1
         },
         {
-            "key": "步兵Emby",
-            "name": "🔞步兵营地[emby]🪜",
+            "key": "黄果短剧",
+            "name": "黄果短剧2",
             "type": 3,
-            "api": "./js/步兵Emby.js",
+            "api": "./py/黄果短剧.py",
             "changeable": 1
         },
                 {
-            "key": "步兵Emby",
-            "name": "🔞步兵营地[emby]🪜",
+            "key": "黄豆短剧 2",
+            "name": "黄豆短剧2",
             "type": 3,
-            "api": "./js/步兵Emby.js",
+            "api": "./py/黄豆短剧 2.py",
             "changeable": 1
         },
         {
-            "key": "步兵Emby",
-            "name": "🔞步兵营地[emby]🪜",
+            "key": "黄豆短剧_v3",
+            "name": "黄豆短剧3",
             "type": 3,
-            "api": "./js/步兵Emby.js",
+            "api": "./py/黄豆短剧_v3.py",
             "changeable": 1
         },
         {
