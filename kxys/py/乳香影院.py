@@ -78,13 +78,13 @@ class Spider(BaseSpider):
 
     # 分类列表
     classList = [
+        {"type_id": "26", "type_name": "三级伦理"},
         {"type_id": "20", "type_name": "国产视频"},
         {"type_id": "21", "type_name": "日韩有码"},
         {"type_id": "22", "type_name": "日韩无码"},
         {"type_id": "23", "type_name": "制服学生"},
         {"type_id": "24", "type_name": "动漫卡通"},
         {"type_id": "25", "type_name": "欧美变态"},
-        {"type_id": "26", "type_name": "三级伦理"},
     ]
 
     filters = {}
