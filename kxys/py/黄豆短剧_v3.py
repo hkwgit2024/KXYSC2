@@ -88,8 +88,8 @@ class Spider(BaseSpider):
     def __init__(self):
         self.backend_parse = False
         self.category_mode = False
-        self.host = "https://xqjzvcvt.top"
-        self.canonical_host = "xqjzvcvt.top"
+        self.host = "https://suiswehj.cc"
+        self.canonical_host = "suiswehj.cc"
         self.public_host_ips = ("91.110.232.197", "91.110.232.206")
         self.host_needs_pin = None
         self.api = self.host + "/api"
