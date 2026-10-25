@@ -285,8 +285,8 @@ class Spider(Spider):
     def homeContent(self, filter=False):
         result = {
             "class": [
-                {"type_id": "recommend", "type_name": "排行榜"},
-                {"type_id": "newest", "type_name": "最近上新"},
+                {"type_id": "ranks/hot", "type_name": "排行榜"},
+                {"type_id": "home", "type_name": "首页"},
                 {"type_id": "ai-duanju", "type_name": "AI成人短剧"},
                 {"type_id": "ai-manju", "type_name": "AI成人漫剧"},
                 {"type_id": "ai-huanlian", "type_name": "AI换脸"},
