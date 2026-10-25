@@ -49,6 +49,15 @@ except ImportError:
 # ---------- 常量 ----------
 HOSTS = [
     "https://huangguoai.com",
+    "https://xmu.h2na6qa39.cc",
+    "https://zju.h2na6qa39.cc",
+    "https://nku.ir95e08v.cc",
+    "https://thu.ir95e08v.cc",
+    "https://fdu.ir95e08v.cc",
+    "https://sdu.ir95e08v.cc",
+    "https://sdu.h2na6qa39.cc",
+    "https://jlu.h2na6qa39.cc",
+    "https://xmu.ir95e08v.cc",
     "https://hust.gkudvxhjh.cc",
     "https://nju.qtmoqpwp.cc",
     "https://xmu.qtmoqpwp.cc",
