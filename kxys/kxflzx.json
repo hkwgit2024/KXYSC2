@@ -50,7 +50,7 @@
             "key": "黄果短剧",
             "name": "黄果短剧",
             "type": 3,
-            "api": "./py/黄果短剧.js",
+            "api": "./py/黄果短剧.py",
             "changeable": 1
         },
         {
