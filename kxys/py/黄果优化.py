@@ -64,7 +64,32 @@ def _gen_backup_hosts(n=8):
     return [f"https://{_gen_random_subdomain()}.ediayikma.cc" for _ in range(n)]
 
 
-HOSTS = ["https://huangguoai.com"] + _gen_backup_hosts(8)
+HOSTS = [
+    "https://huangguoai.com",
+    "https://xmu.h2na6qa39.cc",
+    "https://zju.h2na6qa39.cc",
+    "https://nku.ir95e08v.cc",
+    "https://thu.ir95e08v.cc",
+    "https://fdu.ir95e08v.cc",
+    "https://sdu.ir95e08v.cc",
+    "https://sdu.h2na6qa39.cc",
+    "https://jlu.h2na6qa39.cc",
+    "https://xmu.ir95e08v.cc",
+    "https://hust.gkudvxhjh.cc",
+    "https://nju.qtmoqpwp.cc",
+    "https://xmu.qtmoqpwp.cc",
+    "https://sdu.vchllzwu.cc",
+    "https://nku.gkudvxhjh.cc",
+    "https://jlu.gkudvxhjh.cc",
+    "https://scu.gkudvxhjh.cc",
+    "https://thu.vchllzwu.cc",
+    "https://nku.gkudvxhjh.cc",
+    "https://ttvoij.ediayikma.cc",
+    "https://thu.ediayikma.cc",
+    "https://pku.ediayikma.cc",
+    "https://fdu.ediayikma.cc",
+    "https://thu.agdkczeyx.cc",
+] + _gen_backup_hosts(8)
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
 TIMEOUT = 18
